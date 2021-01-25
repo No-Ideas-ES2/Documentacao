@@ -15,8 +15,9 @@ O presente trabalho tem o objetivo de criar uma chamada automatizada com o intui
 
 ## Arquivos externos
 * [Ideia](https://onedrive.live.com/?authkey=%21ACY4Fq7g23d%5FqLg&cid=8776CC0EFC5BD528&id=8776CC0EFC5BD528%21210&parId=root&o=OneUp)
-* [Pitch](https://www.canva.com/design/DAEKtw7avlo/i2FfVXz-y2tU2q1V-nFxMA)
+* [Pitch](https://www.canva.com/design/DAEKtw7avlo/D2C-nSjS_SOxZeiV7DOb8Q/view?utm_content=DAEKtw7avlo&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
 * [Questionário](https://docs.google.com/forms/d/1j1xlpr3T0JDfGm4e8c68TTTYrsgRgf2LutRiHaCLidI)
+* [Simulação API](https://drive.google.com/file/d/1H6nCGT8ji1EzVny6RS3wp0CJ9YgPXqD0/view?usp=sharing)
 
 ## Problema
 
@@ -46,6 +47,6 @@ Na questão de aprendizado observa-se que existe uma certa perda de tempo de aul
 
     Precisa sempre preencher a lista de chamada manualmente e repassar pro sistema, trazendo demora e possíveis erros durante a transcrição dos dados.
 
-1. *Julina, 50 anos, professora de Direito e Cidadania, trabalha em uma universidade federal.*
+1. *Juliana, 50 anos, professora de Direito e Cidadania, trabalha em uma universidade federal.*
 
     Realiza uma chamada por aula, ou seja 4 chamadas por noite. Há uma enorme perda de tempo fazendo as 4 chamadas, alunos também não gostam. Vários alunos perdem a primeira aula, e muitos não permanecem nas últimas aulas. Os alunos reclamam que a aula não rende.
