@@ -1,4 +1,17 @@
-# Documentação #
+![Imagem brasão UFFS](imgs/uffs.png)
+
+## Curso de Ciência da Computação ##
+
+# Chamada Automatica - Documentação #
+
+Elaborado pelos acadêmicos Maikon Douglas, Tatiane Arndt Barbosa, Darlan Adriano Schmitz, Jóvio  Giacomolli, Deividi Luiz, Tiago Debastiani, Jardel Osório Duarte.
+
+O presente trabalho tem o objetivo de criar uma chamada automatizada com o intuito de facilitar a auto inclusão dos alunos e facilitar/otimizar o tempo de aula dos professores. 
+
+**Chapecó - SC**
+
+* [API](https://github.com/No-Ideas-ES2/chamada-backend)
+* [Aplicação Web](https://github.com/No-Ideas-ES2/Chamada-Automatica)
 
 ## Arquivos externos
 * [Ideia](https://onedrive.live.com/?authkey=%21ACY4Fq7g23d%5FqLg&cid=8776CC0EFC5BD528&id=8776CC0EFC5BD528%21210&parId=root&o=OneUp)
